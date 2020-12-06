@@ -1,0 +1,39 @@
+.signup{
+
+  text-align: center;
+  margin: 200px 400px 400px 400px;
+  padding-top: 30px;
+    padding-bottom: 200px;
+
+    padding-right: 60px;
+    padding-left: 60px;
+  background-color: #f3f2da;
+}
+
+h1{
+  font-family: 'Nerko One', cursive;
+}
+body{
+
+font-family: 'Merriweather', serif;
+}
+.image{
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+.image1{
+  position: absolute;
+  top: 400px;
+  right:  100px;
+}
+.cloud{
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+.cloud1{
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
